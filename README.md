@@ -1,3 +1,10 @@
 # inventra
 website<br>
-team leader:Prajwal
+team leader:Prajwal<br>
+team members:
+<ol>Rithvik
+Ujjayani
+Komala
+Akshaya
+Rithosh</ol>
+
